@@ -1,7 +1,7 @@
 ## Responsibilism
 Codes associated with the Responsibilism project.
 
-Zhang, J.*, Liao, T.*, Oishi, S. & Talhelm, T. Responsibilism Predicts Happiness Better Than Warm Fuzzy Collectivism: A Text Analysis of Reddit Posts Across U.S. States.
+Zhang, J., Liao, T., Oishi, S. & Talhelm, T. Responsibilism Predicts Happiness Better Than Warm Fuzzy Collectivism: A Text Analysis of Reddit Posts Across U.S. States.
 
 ### Figure 1. Constructing a State-Level Collectivism Index Using Reddit Data
 ![alt text](workflow.jpeg)
