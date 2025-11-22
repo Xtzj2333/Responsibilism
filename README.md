@@ -6,8 +6,8 @@
 
 ## Code
 The code contains the following parts which readers may run to reproduce our findings.
-1. Train_Word2Vec.ipynb - Scrape each US states' subreddit using Convokit and train separate a separate Word2Vec model for each state.
-2. Construct_Dimensions.ipynb - Construct state-level collectivism index.
+1. Train_Word2Vec.ipynb (**Figure 1**) - Scrape each US states' subreddit using Convokit and train separate a separate Word2Vec model for each state.
+2. Construct_Dimensions.ipynb (**Figure 1**) - Construct state-level collectivism index.
 3. Construct_Dataframe.ipynb - Link index to other state-level covariates.
 4. Regression.ipynb - Test convergent validity of index and use index to predict state-level happiness.
 
